@@ -1,4 +1,4 @@
-# Finance Data Automation System
+# Finance Data Automation
 Developed a suite of three integrated Python scripts to automate personal finance management, covering income, expenses, and invoice processing. The system streamlined repetitive financial tracking tasks, reduced errors, and improved data transparency through automated reporting. It demonstrates strong use of Python OOP, file and email automation (IMAP), PDF and CSV parsing, Excel manipulation, data validation, and workflow optimisation.
 
 ## Process Invoices
